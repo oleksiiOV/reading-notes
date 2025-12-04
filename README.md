@@ -1,3 +1,5 @@
+![Effort Tree Diagram](Effort_tree.png)
+
 ### *Effort develops ability.*
 
 >* Embrace Challenges
