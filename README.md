@@ -1,3 +1,8 @@
+### *Effort develops ability.*
+
+>* Embrace Challenges
+>* Value Effort Over Innate Talent
+>* Seek and Learn from Feedback
 
 ```js
     const alexProfile = { 
