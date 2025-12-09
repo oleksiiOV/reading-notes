@@ -1,3 +1,5 @@
+[Home](../README.md)
+
 ### What are four important features to look for in a text editor?
 
 >1. code completion; 

@@ -1,3 +1,11 @@
+# Welcome to My Reading Notes
+
+Hi, I’m Alex. This website contains my reading notes.
+
+- [Read: 01 - Learning Markdown](class1_notes/class1.md)
+- [Read: 02 - The Coder's Computer](class2_notes/class2.md)
+- [Read: 03 - Revisions and the Cloud](class3_notes/class3.md)
+
 ![Effort Tree Diagram](Effort_tree.png)
 
 ### *Effort develops ability.*
