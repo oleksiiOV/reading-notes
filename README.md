@@ -6,6 +6,7 @@ Hi, I’m Alex. This website contains my reading notes.
 - [Read: 02 - The Coder's Computer](class2_notes/class2.md)
 - [Read: 03 - Revisions and the Cloud](class3_notes/class3.md)
 - [Read: 04 - Structure web pages with HTML](class4_notes/class4.md)
+- [Read: 05 - Design web pages with CSS](class5_notes/class5.md)
 
 ![Effort Tree Diagram](Effort_tree.png)
 
