@@ -1,4 +1,4 @@
-[Home](../README.md)
+z
 
 ## What is HTML and why do we use it?
 HTML (HyperText Markup Language) is the standard language used to create and structure content on the web. We use HTML to define the structure of a webpage, such as headings, paragraphs, links, images, and sections, so browsers know how to display the content.

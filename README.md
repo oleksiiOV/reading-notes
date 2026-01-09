@@ -7,6 +7,7 @@ Hi, I’m Alex. This website contains my reading notes.
 - [Read: 03 - Revisions and the Cloud](class3_notes/class3.md)
 - [Read: 04 - Structure web pages with HTML](class4_notes/class4.md)
 - [Read: 05 - Design web pages with CSS](class5_notes/class5.md)
+- [Read: 06 - Dynamic web pages with JavaScript](class6_notes/class6.md)
 
 ![Effort Tree Diagram](Effort_tree.png)
 
